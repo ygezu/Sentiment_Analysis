@@ -36,6 +36,14 @@ Finally, I shortened the complaint statements to make the visuals appear tidier
 
 ![top_10](https://github.com/ygezu/Sentiment_Analysis/assets/159511253/7ed61b8c-99bc-4ff1-b8ae-2d4015c285de)
 
+# Comapring common responses from the top 10 companies
+
+![responses_of_top_10](https://github.com/ygezu/Sentiment_Analysis/assets/159511253/029babbd-f256-4f6a-91f7-b9a509391b61)
+
+# Word Cloud 
+
+![word cloud](https://github.com/ygezu/Sentiment_Analysis/assets/159511253/176ca935-082e-4361-a15e-133c881c221c)
+
 
 
 
