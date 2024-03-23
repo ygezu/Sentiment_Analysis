@@ -32,7 +32,18 @@ Finally, I shortened the complaint statements to make the visuals appear tidier
 
 
 
-# Question 1- How does the sentiment score of complaints vary across the different companies?
+# Comparing the Top 10 sentiment scores calculated across the different companies 
+
+![top_10](https://github.com/ygezu/Sentiment_Analysis/assets/159511253/7ed61b8c-99bc-4ff1-b8ae-2d4015c285de)
+
+
+
+
+
+
+
+
+
 This code performs sentiment analysis on customer complaints data. It first tokenizes the complaints text to extract individual words. Then, it retrieves a sentiment lexicon to assign sentiment scores to each word. The sentiment scores are aggregated by company, and the top 10 companies with the highest sentiment scores are identified. Finally, a bar plot is created to visualize the sentiment values for the top 10 companies.
 
 
