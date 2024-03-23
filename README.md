@@ -39,7 +39,7 @@ Finally, I shortened the complaint statements to make the visuals appear tidier
                       "Company has responded to the consumer and the CFPB and chooses not to provide a public response" = "Response to only consumer and CFPB")
 
 # Data Summary 
-<img width="200" alt="Screen Shot 2024-03-22 at 10 24 48 PM" src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/c4b29647-fd15-48f9-86ea-cc71406854e5">
+<img width="400" alt="Screen Shot 2024-03-22 at 10 24 48 PM" src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/c4b29647-fd15-48f9-86ea-cc71406854e5">
 
 
 # Comparing the Top 10 sentiment scores calculated across the different companies 
