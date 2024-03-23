@@ -3,6 +3,12 @@
 # Introduction 
 In this project, I'm analyzing customer complaints to understand how people feel about different companies. By analyzing what the customers say, I aim to discern the levels of satisfaction or dissatisfaction with their experiences. This helps us see which companies are doing well and in what areas they could improve. Ultimately, the goal is to leverage this insight to enhance companies' customer satisfaction strategies, fostering better relationships and ensuring a positive customer experience.
 
+# Data Dictionary 
+From the 18 columns present, I utilized these 3 columns for my analysis 
+1. Consumer.complaint.narrative
+2. Company.public.response
+3. Company
+
 
 # Data Cleaning 
 Removing Empty Complaint Narratives: I filtered out any rows where the complaint narrative was empty to focus only on valid complaints.
@@ -48,12 +54,5 @@ This section performs sentiment analysis using two sentiment lexicons: the NRC l
 
 
 
+#  Conclusion 
 
-
-
-
-
-
-
-
-common approaches taken by companies to resolve issues.
