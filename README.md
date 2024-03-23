@@ -3,7 +3,7 @@
 # Introduction 
 In this project, I'm analyzing customer complaints to understand how people feel about different companies. By analyzing what the customers say, I aim to discern the levels of satisfaction or dissatisfaction with their experiences. This helps us see which companies are doing well and in what areas they could improve. Ultimately, the goal is to leverage this insight to enhance companies' customer satisfaction strategies, fostering better relationships and ensuring a positive customer experience.
 
-<img src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/51feaf97-fdc2-4437-98f6-b8aa8a8b1a2e" alt="Image" width="300">
+<img src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/51feaf97-fdc2-4437-98f6-b8aa8a8b1a2e" alt="Image" width="350">
 
 
 
