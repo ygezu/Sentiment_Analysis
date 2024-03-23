@@ -7,13 +7,13 @@ In this project, I'm analyzing customer complaints to understand how people feel
 # Data Cleaning 
 Removing Empty Complaint Narratives: I filtered out any rows where the complaint narrative was empty to focus only on valid complaints.
 
-df <- df %>%
-  filter(Consumer.complaint.narrative != "")
+    df <- df %>%
+      filter(Consumer.complaint.narrative != "")
 
 Filtering Non-Provided Public Responses: Similarly, I filtered out rows where the company's public response was not provided.
 
-df <- df %>%
-  filter(Company.public.response != "")
+    df <- df %>%
+      filter(Company.public.response != "")
 
 Handling Missing Values: I addressed any missing or null values in relevant columns I utilized for this analysis, ensuring data completeness and consistency.
 
