@@ -63,5 +63,5 @@ This section performs sentiment analysis using two sentiment lexicons: the NRC l
 #  Conclusion 
 Some insights we can gain from the analyzed data 
 - Freedom Mortgage Company has the highest sentiment value among all the companies, indicating a generally positive perception of their services. Following closely, Great Lakes comes in second.
-The most common response provided by companies to resolve complaints was to respond only to customers or the Consumer Financial Protection Bureau (CFPB), indicating a preference for private resolution. However, "Acted Appropriately by Law" is the second most common way companies resolve their complaints, suggesting a commitment to legal compliance.
-Repeated runs of our word cloud code consistently highlight the word "Envious" in large font sizes. This recurring occurrence suggests that "Envious" was one of the most frequently used words in the complaints analyzed.
+- The most common response provided by companies to resolve complaints was to respond only to customers or the Consumer Financial Protection Bureau (CFPB), indicating a preference for private resolution. However, "Acted Appropriately by Law" is the second most common way companies resolve their complaints, suggesting a commitment to legal compliance.
+- Repeated runs of our word cloud code consistently highlight the word "Envious" in large font sizes. This recurring occurrence suggests that "Envious" was one of the most frequently used words in the complaints analyzed.
