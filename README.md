@@ -17,6 +17,18 @@ Filtering Non-Provided Public Responses: Similarly, I filtered out rows where th
 
 Handling Missing Values: I addressed any missing or null values in relevant columns I utilized for this analysis, ensuring data completeness and consistency.
 
+I shortened the complaint statements to make the visuals appear tidier 
+    response_mapping <- c("Company chooses not to provide a public response" = "No Public Response",
+                      "Company believes it acted appropriately as authorized by contract or law" = "Acted Appropriately by Law",
+                      "Company believes the complaint is the result of a misunderstanding" = "Misunderstanding",
+                      "Company believes complaint caused principally by actions of third party outside the control or direction of the company" = "Third-party Issue",
+                      "Company disputes the facts presented in the complaint" = "Disputed Presented Facts",
+                      "Company can't verify or dispute the facts in the complaint" = "Unverifiable Facts",
+                      "Company believes complaint is the result of an isolated error" = "Isolated Error",
+                      "Company believes complaint represents an opportunity for improvement to better serve consumers" = "Improvement Opportunity",
+                      "Company believes complaint relates to a discontinued policy or procedure" = "Discontinued Policy",
+                      "Company has responded to the consumer and the CFPB and chooses not to provide a public response" = "Response to only consumer and CFPB")
+
 
 
 # Question 1- How does the sentiment score of complaints vary across the different companies?
