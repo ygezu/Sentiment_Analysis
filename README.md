@@ -47,18 +47,18 @@ Finally, I shortened the complaint statements to make the visuals appear tidier
 # Comparing the Top 10 sentiment scores calculated across the different companies 
 This section calculates and visualizes sentiment scores on consumer complaints data. It first tokenizes the complaints text to extract individual words. Then, it retrieves a sentiment lexicon to assign sentiment scores to each word. The sentiment scores are aggregated by company, and the top 10 companies with the highest sentiment scores are identified. Finally, a bar plot is created to visualize the sentiment values for the top 10 companies.
 
-<img src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/7ed61b8c-99bc-4ff1-b8ae-2d4015c285de" alt="top_10" width="300">
+<img src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/7ed61b8c-99bc-4ff1-b8ae-2d4015c285de" alt="top_10" width="400">
 
 
 # Comapring common responses from the top 10 companies
 Utilizing the top 10 sentiment scores, for each company based on the words used in the complaints, the most common responses provided by the top 10 companies to customer complaints was visualized in a bar chart. The sentiment analysis and response frequency insights obtained from this code help in understanding customer sentiment levels and common responses among leading companies.
 
-<img src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/029babbd-f256-4f6a-91f7-b9a509391b61" alt="responses_of_top_10" width="300">
+<img src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/029babbd-f256-4f6a-91f7-b9a509391b61" alt="responses_of_top_10" width="400">
 
 
 # Word Cloud 
 This section performs sentiment analysis using two sentiment lexicons: the NRC lexicon and the Bing lexicon. It counts the occurrences of positive and negative sentiments in each lexicon. Then, it retrieves the top 10 most frequent words associated with each sentiment in the Bing lexicon. Finally, it generates a word cloud visualization of the most common words, excluding stop words, based on the Bing lexicon. 
-<img src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/176ca935-082e-4361-a15e-133c881c221c" alt="word cloud" width="300">
+<img src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/176ca935-082e-4361-a15e-133c881c221c" alt="word cloud" width="400">
 
 
 
