@@ -41,8 +41,8 @@ Finally, I shortened the complaint statements to make the visuals appear tidier
                       "Company has responded to the consumer and the CFPB and chooses not to provide a public response" = "Response to only consumer and CFPB")
 
 # Data Summary 
-<img width="400" alt="Screen Shot 2024-03-22 at 10 24 48 PM" src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/c4b29647-fd15-48f9-86ea-cc71406854e5">
 
+<img width="400" alt="Screen Shot 2024-03-22 at 10 30 36 PM" src="https://github.com/ygezu/Sentiment_Analysis/assets/159511253/dd2ecd82-d329-4d1d-8753-aa5cb37a6310">
 
 # Comparing the Top 10 sentiment scores calculated across the different companies 
 This section calculates and visualizes sentiment scores on consumer complaints data. It first tokenizes the complaints text to extract individual words. Then, it retrieves a sentiment lexicon to assign sentiment scores to each word. The sentiment scores are aggregated by company, and the top 10 companies with the highest sentiment scores are identified. Finally, a bar plot is created to visualize the sentiment values for the top 10 companies.
@@ -61,4 +61,7 @@ This section performs sentiment analysis using two sentiment lexicons: the NRC l
 
 
 #  Conclusion 
-
+Some insights we can gain from the analyzed data 
+- Freedom Mortgage Company has the highest sentiment value among all the companies, indicating a generally positive perception of their services. Following closely, Great Lakes comes in second.
+The most common response provided by companies to resolve complaints was to respond only to customers or the Consumer Financial Protection Bureau (CFPB), indicating a preference for private resolution. However, "Acted Appropriately by Law" is the second most common way companies resolve their complaints, suggesting a commitment to legal compliance.
+Repeated runs of our word cloud code consistently highlight the word "Envious" in large font sizes. This recurring occurrence suggests that "Envious" was one of the most frequently used words in the complaints analyzed.
