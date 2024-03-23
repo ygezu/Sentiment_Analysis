@@ -7,14 +7,14 @@ In this project, I'm analyzing customer complaints to understand how people feel
 
 
 
-# Data Dictionary 
+# Data Dictionary 📖
 From the 18 columns present, I utilized these 3 columns for my analysis 
 1. Consumer.complaint.narrative
 2. Company.public.response
 3. Company
 
 
-# Data Cleaning 
+# Data Cleaning 🧹
 Removing Empty Complaint Narratives: I filtered out any rows where the complaint narrative was empty to focus only on valid complaints.
 
     df <- df %>%
