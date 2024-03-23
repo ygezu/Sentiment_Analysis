@@ -17,7 +17,8 @@ Filtering Non-Provided Public Responses: Similarly, I filtered out rows where th
 
 Handling Missing Values: I addressed any missing or null values in relevant columns I utilized for this analysis, ensuring data completeness and consistency.
 
-I shortened the complaint statements to make the visuals appear tidier 
+Finally, I shortened the complaint statements to make the visuals appear tidier 
+   
     response_mapping <- c("Company chooses not to provide a public response" = "No Public Response",
                       "Company believes it acted appropriately as authorized by contract or law" = "Acted Appropriately by Law",
                       "Company believes the complaint is the result of a misunderstanding" = "Misunderstanding",
